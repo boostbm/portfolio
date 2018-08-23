@@ -9,6 +9,7 @@
   "author": "David Yu",
   "license": "ISC",
   "dependencies": {
+    "init": "^0.1.2",
     "node-sass": "^4.9.3"
   }
 }
